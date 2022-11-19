@@ -1,0 +1,7 @@
+"""
+#clone YOLOv5 and 
+!git clone https://github.com/ultralytics/yolov5  # repostory'i klonluyoruz
+%cd yolov5
+%pip install -qr requirements.txt # gerekli kütüphaneleri install ediyoruz
+%pip install -q roboflow #roboflow u install ediyoruz
+"""
